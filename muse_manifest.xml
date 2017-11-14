@@ -1,0 +1,36 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="w1615190.com" resolutions="1x" timestamp="1510670441571">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3882198637" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="609975012678452736.jpg" crc="3843271154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="29833282512370492.jpg" crc="256324934" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5ef067c68722218825019666dfff6739.jpg" crc="479932491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="oskar-schlemmer.jpg" crc="286227100" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4968.jpg" crc="452168090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quad_beckett.jpg" crc="3819377409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4250238565" seo="true" mt="1510670239935" redirect="true"/>
+</manifest>
