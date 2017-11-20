@@ -1,0 +1,42 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="w1615190.com" resolutions="1x" timestamp="1511198463106">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4266207954" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img_0649.jpg" crc="3820224777" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5ef067c68722218825019666dfff6739.jpg" crc="3789671877" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_06492.jpg" crc="477587732" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22221644_1575416962514843_5430276464359045647_n.jpg" crc="379817346" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4969.jpg" crc="306539373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4968.jpg" crc="58623279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="302f74c68ed0ee5b47d7066592552ae6.jpg" crc="4235021224" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11f83b4861ebdcf85fcbe713f90066ac.jpg" crc="190904437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4235176842" seo="true" mt="1511197495578" redirect="true"/>
+</manifest>
