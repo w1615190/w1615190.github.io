@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="w1615190.com" resolutions="1x" timestamp="1511271330173">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="w1615190.com" resolutions="1x" timestamp="1511272561259">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3872954619" ref="index"/>
+    <file name="index.css" crc="3816297470" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,6 +13,9 @@
     <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="dsc01539-crop-u728.jpg" crc="346774313" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="black2.jpg" crc="31950461" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -41,5 +44,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4004377999" seo="true" mt="1511271246554" redirect="true"/>
+  <file name="index.html" crc="3883999039" seo="true" mt="1511272523536" redirect="true"/>
 </manifest>
