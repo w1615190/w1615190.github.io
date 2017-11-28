@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="w1615190.com" resolutions="1x" timestamp="1511882848644">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="w1615190.com" resolutions="1x" timestamp="1511883375111">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3903802131" ref="index"/>
+    <file name="index.css" crc="4007132990" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -37,15 +37,15 @@
     <file name="5ef067c68722218825019666dfff6739.jpg" crc="3789671877" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_0649.jpg" crc="230802454" seo="true" ref="index">
+    <file name="img_0649.jpg" crc="147300147" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="302f74c68ed0ee5b47d7066592552ae6.jpg" crc="4235021224" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo-sadlers-wells-g.png" crc="299254834" seo="true" ref="index">
+    <file name="logo-sadlers-wells-g-crop-u759.png" crc="4163448056" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3764803721" seo="true" mt="1511882715596" redirect="true"/>
+  <file name="index.html" crc="4145356455" seo="true" mt="1511883351096" redirect="true"/>
 </manifest>
