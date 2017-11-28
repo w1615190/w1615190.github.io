@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://w1615190.com/index.html</loc>
-    <lastmod>2017-11-21</lastmod>
+    <lastmod>2017-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://w1615190.com/images/dsc01539-crop-u728.jpg</image:loc>
+      <image:loc>http://w1615190.com/images/4969.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://w1615190.com/images/4968.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://w1615190.com/images/danceleft.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://w1615190.com/images/danceright.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://w1615190.com/images/dsc01539-crop-u821.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://w1615190.com/images/black.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://w1615190.com/images/black2.jpg</image:loc>
@@ -21,19 +36,7 @@
       <image:loc>http://w1615190.com/images/302f74c68ed0ee5b47d7066592552ae6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://w1615190.com/images/black.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://w1615190.com/images/4969.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://w1615190.com/images/4968.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://w1615190.com/images/danceleft.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://w1615190.com/images/danceright.jpg</image:loc>
+      <image:loc>http://w1615190.com/images/logo-sadlers-wells-g.png</image:loc>
     </image:image>
   </url>
 </urlset>
