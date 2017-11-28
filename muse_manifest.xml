@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="w1615190.com" resolutions="1x" timestamp="1511884577105">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="w1615190.com" resolutions="1x" timestamp="1511884694146">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4129279440" ref="index"/>
+    <file name="index.css" crc="212419845" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -47,5 +47,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3822880029" seo="true" mt="1511884552093" redirect="true"/>
+  <file name="index.html" crc="3951335113" seo="true" mt="1511884673216" redirect="true"/>
 </manifest>
